@@ -11,6 +11,13 @@ Este proyecto consiste en un **Motor Vectorial en Python** que computa numérica
 
 ---
 
+## 🚀 Aplicación Web Interactiva (Reto 3)
+El Reto 3 ha sido desplegado exitosamente. Puedes probar el simulador del campo vectorial y mover el slider del radio en tiempo real haciendo clic aquí:
+
+👉 **[Clic aquí para abrir la App en Streamlit.io](https://angel-calculo-multivariado-ciaf-yrvqoujfnb2s4dgfosdw8x.streamlit.app/)**
+
+---
+
 ## 🛠️ Instrucciones de Instalación y Uso
 
 ### 1. Clonar el repositorio e instalar dependencias
