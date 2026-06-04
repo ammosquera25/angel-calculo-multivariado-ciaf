@@ -1,7 +1,7 @@
 # Motor Vectorial y Visualización - Cálculo Multivariado
 
 ## 👥 Integrantes del Grupo
-* **Integrante 1:** [ANGEL MAURICIO MOSQUERA MOSQUERA] - ID: [1.004.720.043]
+* **Integrante:** [ANGEL MAURICIO MOSQUERA MOSQUERA] - ID: [1.004.720.043]
 * **Curso:** Cálculo Multivariado — Proyecto Integrador Final (CIAF 2026)
 
 ---
