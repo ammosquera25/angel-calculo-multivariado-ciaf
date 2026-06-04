@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes del Grupo
 * **Integrante:** [ANGEL MAURICIO MOSQUERA MOSQUERA] - ID: [1.004.720.043]
-* * **Profesor:** Aimer A. Rivas Montoya
+* **Profesor:** Aimer A. Rivas Montoya
 * **Asignatura:** Cálculo Multivariado — Proyecto Integrador Final (CIAF 2026)
 
 ---
