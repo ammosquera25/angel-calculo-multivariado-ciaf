@@ -15,7 +15,8 @@ Este proyecto consiste en un **Motor Vectorial en Python** que computa numérica
 
 ### 1. Clonar el repositorio e instalar dependencias
 Abre tu terminal y ejecuta:
+
 ```bash
-git clone [https://github.com/](https://github.com/)[TU_USUARIO]/campos-vectoriales-ciaf.git
+git clone [https://github.com/TU_USUARIO/campos-vectoriales-ciaf.git](https://github.com/TU_USUARIO/campos-vectoriales-ciaf.git)
 cd campos-vectoriales-ciaf
 pip install -r requirements.txt
